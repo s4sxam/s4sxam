@@ -1,14 +1,16 @@
 # 💫 About Me:
 Hi, I'm Tanay 👋
-I'm a student developer from West Bengal, India who builds things — Android apps, web apps, and everything in between. I work across the full stack: Kotlin + Jetpack Compose on Android, React + TypeScript + Vite on the web, and I deploy everything I build.
-What I'm working on
-Right now my main projects are Warrior 2026 (an Android streak tracker built in Jetpack Compose) and sXamTop (a Kotlin news reader app with Hilt DI and encrypted storage). On the web side I've built café ordering systems with Supabase, PWAs, and skincare tracking apps with Gemini API integration.
-My stack
+🎓 Student developer from West Bengal, India — I build things. Android apps, web apps, and everything in between.
+⚒️ What I'm working on
+Warrior 2026 — an Android streak tracker built with Jetpack Compose
+sXamTop — a Kotlin news reader with Hilt DI and encrypted storage
+On the web side — café ordering systems, PWAs, and AI-integrated apps
+🛠️ My Stack
 Kotlin · Jetpack Compose · React · TypeScript · Vite · Tailwind CSS · Framer Motion · Supabase · Node.js · GitHub Actions
-What drives me
-I learn by building real things end-to-end — from the first line of code to deployment. Every project I ship teaches me something the docs never could.
-Ask me about
-Android development, Jetpack Compose, React, building PWAs, or how to take a project from zero to deployed.
+🚀 What drives me
+I learn by building real things end-to-end — from first line of code to deployment. Every project I ship teaches me something the docs never could.
+💬 Ask me about
+Android dev · Jetpack Compose · React · PWAs · Taking a project from zero to deployed
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@s3sxam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanayguha07@gmail.com) 
