@@ -1,14 +1,23 @@
 # 💫 About Me:
 Hi, I'm Tanay 👋
-🎓 Student developer from West Bengal, India — I build things. Android apps, web apps, and everything in between.
+🎓 Student developer from, India — I build things. Android apps, web apps, and everything in between.
+
+
 ⚒️ What I'm working on
 Warrior 2026 — an Android streak tracker built with Jetpack Compose
 sXamTop — a Kotlin news reader with Hilt DI and encrypted storage
 On the web side — café ordering systems, PWAs, and AI-integrated apps
+
+
 🛠️ My Stack
-Kotlin · Jetpack Compose · React · TypeScript · Vite · Tailwind CSS · Framer Motion · Supabase · Node.js · GitHub Actions
+Kotlin · Jetpack Compose · React · TypeScript · Vite · Tailwind CSS · Framer Motion · Supabase · Node.js ·
+GitHub Actions
+
+
 🚀 What drives me
 I learn by building real things end-to-end — from first line of code to deployment. Every project I ship teaches me something the docs never could.
+
+
 💬 Ask me about
 Android dev · Jetpack Compose · React · PWAs · Taking a project from zero to deployed
 
