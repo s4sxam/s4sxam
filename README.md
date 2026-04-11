@@ -1,6 +1,14 @@
 # 💫 About Me:
-Hi, I'm Tanay! 👋 I am a passionate Frontend Web Developer specializing in creating premium, high-converting websites for local businesses, restaurants, and cafes. I focus on building fast, responsive, and modern digital experiences that help brands grow their online presence.<br>🔭 I’m currently working on<br>freelance web development projects, building direct-ordering websites and digital menus for local restaurants to help them scale their business.<br>👯 I’m looking to collaborate on<br>open-source frontend projects, modern UI/UX designs, and innovative web applications for small businesses.<br>🤝 I’m looking for help with<br>advanced JavaScript frameworks (like React/Next.js) and backend integrations to make my websites even more dynamic.<br>🌱 I’m currently learning<br>advanced React.js, Tailwind CSS, and modern web animation libraries to build highly interactive user interfaces.<br>💬 Ask me about<br>Frontend development, UI/UX principles, landing page optimization, and how to bring local businesses online effectively.<br>⚡ Fun fact<br>I started my professional freelance web development journey and closing B2B client deals while still being a school student! 🚀
-
+Hi, I'm Tanay 👋
+I'm a student developer from West Bengal, India who builds things — Android apps, web apps, and everything in between. I work across the full stack: Kotlin + Jetpack Compose on Android, React + TypeScript + Vite on the web, and I deploy everything I build.
+What I'm working on
+Right now my main projects are Warrior 2026 (an Android streak tracker built in Jetpack Compose) and sXamTop (a Kotlin news reader app with Hilt DI and encrypted storage). On the web side I've built café ordering systems with Supabase, PWAs, and skincare tracking apps with Gemini API integration.
+My stack
+Kotlin · Jetpack Compose · React · TypeScript · Vite · Tailwind CSS · Framer Motion · Supabase · Node.js · GitHub Actions
+What drives me
+I learn by building real things end-to-end — from the first line of code to deployment. Every project I ship teaches me something the docs never could.
+Ask me about
+Android development, Jetpack Compose, React, building PWAs, or how to take a project from zero to deployed.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@s3sxam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanayguha07@gmail.com) 
