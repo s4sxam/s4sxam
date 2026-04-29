@@ -1,12 +1,5 @@
 <div align="center">
 
-<!-- HEADER TERMINAL BLOCK -->
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-  >_ INITIALIZING PROFILE ... UNIT: TANAY ⌬ | ALIAS: s4sxam | ORIGIN: INDIA
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=7F52FF&center=true&vCenter=true&width=700&lines=I+ship.+I+don't+just+code.;Android+%E2%9A%94+Web+%E2%9A%94+AI+%E2%9A%94+Full+Stack;Kotlin+%2B+Compose+%2B+React+%2B+Supabase;Zero+to+Deployed.+Every.+Single.+Time." alt="Typing SVG" />
 
 <br/>
@@ -21,28 +14,45 @@
 
 ---
 
-## `>_ whoami`
+
+<div align="left">
+
+## ◈ &nbsp; IDENTITY MATRIX
+
+</div>
 
 ```kotlin
-data class Tanay(
-    val alias     : String  = "s4sxam",
-    val origin    : String  = "India 🇮🇳",
-    val role      : String  = "Student Developer → Full-Stack Builder",
-    val philosophy: String  = "I learn by shipping real things end-to-end.",
-    val currentMission: List<String> = listOf(
-        "⚔️  Warrior 2026  — Android streak tracker (Jetpack Compose)",
-        "📰  sXamTop       — Kotlin news reader w/ Hilt DI + encrypted storage",
-        "☕  Café Ordering  — PWA with AI integrations",
-    ),
-    val openTo    : List<String> = listOf("Collabs", "Open Source", "Cool Builds"),
-)
+/**
+ * @author  Tanay ⌬
+ * @alias   s4sxam
+ * @build   Student Developer → Full-Stack Architect
+ * @origin  India 🇮🇳  |  Building things that actually work
+ */
+object Tanay {
+
+    val philosophy = "I learn by shipping real things end-to-end."
+
+    val currentlyBuilding = mapOf(
+        "⚔️  Warrior 2026" to "Android streak tracker — Jetpack Compose + MVVM",
+        "📰  sXamTop"      to "Kotlin news reader — Hilt DI + encrypted storage",
+        "☕  Café PWA"     to "AI-integrated ordering system + offline support",
+    )
+
+    val openTo = listOf("Collabs 🤝", "Open Source ⭐", "Cool Builds 🚀")
+
+    fun contactMe() = println("tanayguha07@gmail.com")
+}
 ```
 
-> **Every project I ship teaches me something the docs never could.**
+<div align="center">
+
+> *"Every project I ship teaches me something the docs never could."*
+
+</div>
 
 ---
 
-## `>_ stack --primary`
+## ◈ &nbsp; TECH ARSENAL
 
 <div align="center">
 
@@ -76,7 +86,7 @@ data class Tanay(
 
 ---
 
-## `>_ projects --pinned`
+## ◈ &nbsp; SHIPPED PROJECTS
 
 | Project | Stack | What it does |
 |--------|-------|--------------|
@@ -86,7 +96,7 @@ data class Tanay(
 
 ---
 
-## `>_ github --stats`
+## ◈ &nbsp; GITHUB METRICS
 
 <div align="center">
 
@@ -106,7 +116,7 @@ data class Tanay(
 
 ---
 
-## `>_ activity --graph`
+## ◈ &nbsp; COMMIT ACTIVITY
 
 <div align="center">
 
@@ -116,25 +126,25 @@ data class Tanay(
 
 ---
 
-## `>_ ask_me_about`
+## ◈ &nbsp; DEEP EXPERTISE
 
-```
-> Android dev & Jetpack Compose architecture
-> Building PWAs that actually work offline
-> Going from idea → deployed product, fast
-> AI integrations in real apps (not just ChatGPT wrappers)
-> Hilt DI, encrypted storage, and clean Android patterns
-```
+<div align="center">
+
+| 📱 Android | 🌐 Web | ⚙️ Patterns |
+|:---:|:---:|:---:|
+| Jetpack Compose architecture | PWAs that work offline | Hilt DI & clean architecture |
+| MVVM + State management | AI integrations in real apps | Encrypted storage & security |
+| End-to-end Android builds | React + TypeScript at scale | Zero → deployed, fast |
+
+</div>
 
 ---
 
 <div align="center">
 
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-  >_ PROFILE LOADED SUCCESSFULLY  //  LET'S BUILD SOMETHING
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
+### &nbsp; Let's build something that matters. &nbsp;
+
+<br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/s3sxam)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:tanayguha07@gmail.com)
