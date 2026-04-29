@@ -18,29 +18,23 @@
 
 ## ◈ &nbsp; IDENTITY MATRIX
 
-</div>
+**Tanay ⌬** &nbsp;·&nbsp; `s4sxam` &nbsp;·&nbsp; Student Developer → Full-Stack Architect &nbsp;·&nbsp; India 🇮🇳
 
-```kotlin
-/**
- * @author  Tanay ⌬
- * @alias   s4sxam
- * @build   Student Developer → Full-Stack Architect
- * @origin  India 🇮🇳  |  Building things that actually work
- */
-object Tanay {
+> *"I learn by shipping real things end-to-end."*
 
-    val philosophy = "I learn by shipping real things end-to-end."
+<br/>
 
-    val currentlyBuilding = mapOf(
-        "⚔️  Warrior 2026" to "Android streak tracker — Jetpack Compose + MVVM",
-        "📰  sXamTop"      to "Kotlin news reader — Hilt DI + encrypted storage",
-        "☕  Café PWA"     to "AI-integrated ordering system + offline support",
-    )
+🔨 **Currently Building**
 
-    val openTo = listOf("Collabs 🤝", "Open Source ⭐", "Cool Builds 🚀")
+- ⚔️ &nbsp; **Warrior 2026** — Android streak tracker · Jetpack Compose + MVVM
+- 📰 &nbsp; **sXamTop** — Kotlin news reader · Hilt DI + encrypted storage
+- ☕ &nbsp; **Café PWA** — AI-integrated ordering system · offline support
 
-    fun contactMe() = println("tanayguha07@gmail.com")
-}
+<br/>
+
+🤝 **Open to** &nbsp; Collabs &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; Cool Builds
+
+📬 **Reach me** &nbsp; tanayguha07@gmail.com
 ```
 
 <div align="center">
