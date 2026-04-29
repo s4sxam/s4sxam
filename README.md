@@ -14,17 +14,15 @@
 
 ---
 
-<div align="left">
-
 ## ◈ &nbsp; IDENTITY MATRIX
 
 **Tanay ⌬** &nbsp;·&nbsp; `s4sxam` &nbsp;·&nbsp; Student Developer → Full-Stack Architect &nbsp;·&nbsp; India 🇮🇳
 
-> *"I learn by shipping real things end-to-end."*
+> *"Every project I ship teaches me something the docs never could."*
 
 <br/>
 
-🔨 **Currently Building**
+🔨 &nbsp; **Currently Building**
 
 - ⚔️ &nbsp; **Warrior 2026** — Android streak tracker · Jetpack Compose + MVVM
 - 📰 &nbsp; **sXamTop** — Kotlin news reader · Hilt DI + encrypted storage
@@ -32,16 +30,9 @@
 
 <br/>
 
-🤝 **Open to** &nbsp; Collabs &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; Cool Builds
+🤝 &nbsp; **Open to** &nbsp; Collabs &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; Cool Builds
 
-📬 **Reach me** &nbsp; tanayguha07@gmail.com
-```
-
-<div align="center">
-
-> *"Every project I ship teaches me something the docs never could."*
-
-</div>
+📬 &nbsp; **Reach me** &nbsp; tanayguha07@gmail.com
 
 ---
 
